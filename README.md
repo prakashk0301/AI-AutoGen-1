@@ -20,7 +20,7 @@ This project showcases the basic usage of AutoGen (AG2) by implementing a conver
 
 1. Clone this repository:
 ```bash
-git clone [<repository-url>](https://github.com/prakashk0301/AI-AutoGen-1)
+git clone https://github.com/prakashk0301/AI-AutoGen-1
 cd autogen-poetic-assistant
 ```
 
